@@ -11,7 +11,6 @@
 /assets/dungeon/*.yaml
 /assets/img/
 /assets/old/
-/zelda3.sfc
 /zelda3.smc
 /saves/*.sav
 /saves/sram.dat
